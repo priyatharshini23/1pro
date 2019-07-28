@@ -1,6 +1,6 @@
 from itertools import combinations
 a,b=input().split()
-b=int(q)
+b=int(b)
 k=[]
 cam=len(a)-b
 fake=combinations(a,cam)
