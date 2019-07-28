@@ -1,8 +1,8 @@
-a=int(input())
+n=int(input())
 p=1
-while(p<=a and p*2<=a):
+while(p<=n and p*2<=n):
     p=p*2
-if(p==a):
+if(p==n):
     print("0")
 else:    
-    print(a-p)
+    print(n-p)
