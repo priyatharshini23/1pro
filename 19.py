@@ -1,6 +1,6 @@
 p=int(input())
 q=[]
-r=
+r=[]
 for i in range(p):
  q.append(list(map(int,input().split())))
 for s in q:
